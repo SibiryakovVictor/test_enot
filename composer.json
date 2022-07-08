@@ -1,0 +1,15 @@
+{
+    "name": "sibiryakov_victor/test_enot",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "SibiryakovVictor\\TestEnot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SibiryakovVictor"
+        }
+    ],
+    "require": {}
+}
